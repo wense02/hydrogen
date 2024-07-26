@@ -88,6 +88,6 @@
     ]
   },
   "dependencies": {
-    "fast-array-diff": "^1.0.1"
+    "fast-array-diff": "^1.1.0"
   }
 }
